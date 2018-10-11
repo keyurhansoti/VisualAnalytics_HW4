@@ -1,4 +1,4 @@
-# ITCS 5122 - Visual Analytics - HMW4
+# ITCS 5122 - Visual Analytics - HomeWork4
 
 How to run
 
